@@ -41,7 +41,7 @@ We aim to provide the community with a comprehensive and timely synthesis of thi
 
 * [2511] [Portal UX Agent] [Portal UX Agent -- A Plug-and-Play Engine for Rendering UIs from Natural Language Specifications](https://arxiv.org/pdf/2511.00843)
 
-* [2510] [Code Aesthetics] [Code Aesthetics with Agentic Reward Feedback](https://arxiv.org/pdf/2511.00843) [[🤗Model](https://huggingface.co/SamuelBang/AesCoder-4B)]
+* [2510] [Code Aesthetics] [Code Aesthetics with Agentic Reward Feedback](https://arxiv.org/pdf/2510.23272) [[🤗Model](https://huggingface.co/SamuelBang/AesCoder-4B)]
 
 * [2510] [Relook] [ReLook: Vision-Grounded RL with a Multimodal LLM Critic for Agentic Web Coding](https://arxiv.org/pdf/2510.11498)
 
