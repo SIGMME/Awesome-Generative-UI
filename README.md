@@ -23,16 +23,37 @@ We aim to provide the community with a comprehensive and timely synthesis of thi
   - [Members](#members)
 - [Our Activities](#our-activities) -->
 <!-- - [Awesome Examples](#Awesome-genui-examples) -->
-- [Awesome Generative UI Papers](#awesome-genui-papers)
-- [Awesome Datasets & Benchmarks](#awesome-datasets)
+- [Awesome Generative UI](#awesome-generative-ui)
+  - [Awesome Generative UI Papers](#awesome-generative-ui-papers)
+  - [Awesome Datasets \& Benchmarks](#awesome-datasets--benchmarks)
 
 
 ---
 
 ## Awesome Generative UI Papers
-
-
+---
 
 ## Awesome Datasets & Benchmarks
+  
+* [**Image2code**] [2510] [WebRenderBench] [WebRenderBench: Enhancing Web Interface Generation through Layout-Style Consistency and Reinforcement Learning](https://arxiv.org/abs/2510.04097) [[🤗Datasets](https://huggingface.co/datasets/aleversn/WebRenderBench)]
 
-* [**Video2code**] [2509] [IWR-Bench] [IWR-Bench: Can LVLMs reconstruct interactive webpage from a user interaction video?](https://arxiv.org/abs/2509.24709) [[💻Code](https://github.com/SIGMME/IWR-Bench)] [[🤗Datasets](https://huggingface.co/datasets/IWR-Bench/IWR-Bench)]  
+* [**Video2code**] [2509] [IWR-Bench] [IWR-Bench: Can LVLMs reconstruct interactive webpage from a user interaction video?](https://arxiv.org/abs/2509.24709) [[💻Code](https://github.com/SIGMME/IWR-Bench)] [[🤗Datasets](https://huggingface.co/datasets/IWR-Bench/IWR-Bench)]
+
+* [**Image2code**] [2508] [VisCodex] [VisCodex: Unified Multimodal Code Generation via Merging Vision and Coding Models](https://arxiv.org/abs/2508.09945) [[🤗Datasets](https://huggingface.co/datasets/lingjie23/MultimodalCodingDataset)]
+
+* [**Image2code**] [2507] [ScreenCoder] [ScreenCoder: Advancing Visual-to-Code Generation for Front-End Automation via Modular Multimodal Agents](https://arxiv.org/abs/2507.22827) [[💻Code](https://github.com/leigest519/ScreenCoder)] [[🤗Datasets](https://huggingface.co/datasets/Leigest/ScreenCoder)]
+  
+* [**Image2code**] [2506] [WebUIBench] [WebRenderBench: Enhancing Web Interface Generation through Layout-Style Consistency and Reinforcement Learning](https://www.arxiv.org/abs/2506.07818v1) [[💻Code](https://github.com/MAIL-Tele-AI/WebUIBench)] [[🤗Datasets](https://huggingface.co/datasets/Tele-AI-MAIL/WebUIBench)]
+
+* [**Image2code**] [2505] [FullFront] [FullFront: Benchmarking MLLMs Across the Full Front-End Engineering Workflow](https://arxiv.org/abs/2505.17399) [[💻Code](https://github.com/Mikivishy/FullFront)] [[🤗Datasets](https://huggingface.co/datasets/Mikivis/FullFront)]
+  
+* [**Image2code**] [2505] [WebGen-Bench] [WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch](https://arxiv.org/pdf/2505.03733) [[🤗Datasets](https://huggingface.co/datasets/luzimu/WebGen-Bench)]
+
+* [**Image2code**] [2406] [Web2Code] [Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs](https://arxiv.org/abs/2406.20098) [[💻Code](https://github.com/MBZUAI-LLM/Web2code)] [[🤗Datasets](https://huggingface.co/datasets/MBZUAI/Web2Code)]
+
+* [**Image2code**] [2404] [WebCode2M] [WebCode2M: AReal-World Dataset for Code Generation fromWebpage Designs](https://arxiv.org/abs/2404.06369) [[🤗Datasets](https://huggingface.co/datasets/xcodemind/webcode2m)]
+
+* [**Image2code**] [2403] [WebSight] [WebSight: A Vision-First Architecture for Robust Web Agents](https://arxiv.org/abs/2508.16987v1)[[🤗Datasets](https://huggingface.co/datasets/HuggingFaceM4/WebSight)]
+
+* [**Image2code**] [2403] [Design2Code] [Design2Code: Benchmarking Multimodal Code Generation for Automated Front-End Engineering](https://arxiv.org/abs/2403.03163) [[💻Code](https://github.com/NoviScl/Design2Code)] [[🤗Datasets](https://huggingface.co/datasets/SALT-NLP/Design2Code)]
+
