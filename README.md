@@ -35,13 +35,21 @@ We aim to provide the community with a comprehensive and timely synthesis of thi
 * [2511] [AUI] [Computer-Use Agents as Judges for Generative User Interface](https://arxiv.org/pdf/2511.15567) [[💻Code](https://github.com/showlab/AUI)] [[🤗Model](https://huggingface.co/spaces/showlab/AUI)]
 
   
-* [2511] [UI2Code^N] [UI2Code^N: A Visual Language Model for Test-Time Scalable Interactive UI-to-Code Generation](https://arxiv.org/pdf/2511.08195) [[🤗Model](https://github.com/zai-org/UI2Code_N)]
+* [2511] [UI2Code^N] [UI2Code^N: A Visual Language Model for Test-Time Scalable Interactive UI-to-Code Generation](https://arxiv.org/pdf/2511.08195) [[💻Code](https://github.com/zai-org/UI2Code_N)] [[🤗Model](https://huggingface.co/zai-org/UI2Code_N)]
 
-* [2511] [WebVIA] [WebVIA: A Web-based Vision-Language Agentic Framework for Interactive and Verifiable UI-to-Code Generation](https://arxiv.org/pdf/2511.06251) [[🤗Model](https://github.com/zheny2751-dotcom/WebVIA)]
+* [2511] [WebVIA] [WebVIA: A Web-based Vision-Language Agentic Framework for Interactive and Verifiable UI-to-Code Generation](https://arxiv.org/pdf/2511.06251) [[💻Code](https://github.com/zheny2751-dotcom/WebVIA)] [[🤗Model](https://huggingface.co/zai-org/WebVIA-Agent)]
 
 * [2511] [Portal UX Agent] [Portal UX Agent -- A Plug-and-Play Engine for Rendering UIs from Natural Language Specifications](https://arxiv.org/pdf/2511.00843)
 
 * [2510] [Code Aesthetics] [Code Aesthetics with Agentic Reward Feedback](https://arxiv.org/pdf/2511.00843) [[🤗Model](https://huggingface.co/SamuelBang/AesCoder-4B)]
+
+* [2510] [Relook] [ReLook: Vision-Grounded RL with a Multimodal LLM Critic for Agentic Web Coding](https://arxiv.org/pdf/2510.11498)
+
+* [2509] [UI-UG] [UI-UG: A Unified MLLM for UI Understanding and Generation](https://arxiv.org/pdf/2509.24361) [[💻Code](https://github.com/neovateai/UI-UG)] [[🤗Model](https://huggingface.co/neovateai/UI-UG-7B)]
+
+* [2508] [LaTCoder] [LaTCoder: Converting Webpage Design to Code with Layout-as-Thought](https://arxiv.org/pdf/2508.03560) 
+
+* [2506] [LayoutCoder] [MLLM-Based UI2Code Automation Guided by UI Layout Information](https://arxiv.org/pdf/2506.10376)
 
 ---
 
