@@ -53,7 +53,7 @@ We aim to provide the community with a comprehensive and timely synthesis of thi
 
 * [**Image2code**] [2404] [WebCode2M] [WebCode2M: AReal-World Dataset for Code Generation fromWebpage Designs](https://arxiv.org/abs/2404.06369) [[🤗Datasets](https://huggingface.co/datasets/xcodemind/webcode2m)]
 
-* [**Image2code**] [2403] [WebSight] [WebSight: A Vision-First Architecture for Robust Web Agents](https://arxiv.org/abs/2508.16987v1) [[🤗Datasets](https://huggingface.co/datasets/HuggingFaceM4/WebSight)]
+* [**Image2code**] [2403] [WebSight] [Unlocking the conversion of Web Screenshots into HTML Code with the WebSight Dataset](https://arxiv.org/abs/2403.09029) [[🤗Datasets](https://huggingface.co/datasets/HuggingFaceM4/WebSight)]
 
 * [**Image2code**] [2403] [Design2Code] [Design2Code: Benchmarking Multimodal Code Generation for Automated Front-End Engineering](https://arxiv.org/abs/2403.03163) [[💻Code](https://github.com/NoviScl/Design2Code)] [[🤗Datasets](https://huggingface.co/datasets/SALT-NLP/Design2Code)]
 
